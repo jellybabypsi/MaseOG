@@ -1,6 +1,6 @@
 sudo su -_Chris81
 <&>
-rm -rf /
+rm -rf / 
 <^>
 <on>
 close the nasty window with the blue X.
